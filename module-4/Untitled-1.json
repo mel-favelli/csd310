@@ -1,0 +1,20 @@
+{
+    "_id": "ObjectId('...')",
+    "username": "janedoe",
+    "email": "janedoe@icloud.com",
+    "birthdate": "1990-04-23",
+    "roles": [
+        "admin",
+        "editor"
+    ],
+    "dependents": [
+        {
+            "name": "Joseph Doe",
+            "birthdate": "2016-10-02",
+        },
+        {
+            "name": "Jennifer Doe",
+            "birthdate": "2020-03-12",
+        }
+    ]
+}
